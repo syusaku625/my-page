@@ -1,0 +1,25 @@
+==================
+About Me
+==================
+
+| 前田　修作  
+| syusaku Maeda
+| E-mail: s.maeda@biomech.me.es.osaka-u.ac.jp
+
+Current Affiliation
+===================
+Master student at `Department of Mechanical Science and Bioengineering`_, 
+`Guraduate school of enginnering science`_, `Osaka University`_. Member of `Wada Lab`_.
+
+.. _Department of Mechanical Science and Bioengineering: http://www.me.es.osaka-u.ac.jp/msb/index.html
+.. _Guraduate school of enginnering science: https://www.es.osaka-u.ac.jp/ja/
+.. _Osaka University: https://www.osaka-u.ac.jp/ja
+.. _Wada Lab: https://sites.google.com/site/biomechwadalab/link
+
+
+Research Interests
+==================
+
+- Computational fluid dynamics
+
+- Cerebrospinal fluid circulation

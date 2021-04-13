@@ -7,6 +7,9 @@ Journal Articles
 
 International Conferences
 =========================
+1) Syusaku Maeda, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Selin yavus Ilik, Naoki Takeishi, Shigeo Wada, 
+"DEVELOPMENT ON A COMPUTATIONAL FRAMEWORK TO EXPRESS PATIENT-SPECIFIC INTRACRNICAL CEREBROSPINAL FLUID FLOW BASED ON PHASE-CONTRAST MAGNETIC RESONANCE IMAGES",
+Summer Biomechanics, Bioengineering, and Biotransport Conference, June, 2021. (accepted)
 
 Domestic Conferences
 ====================

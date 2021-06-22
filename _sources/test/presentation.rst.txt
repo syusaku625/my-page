@@ -7,10 +7,11 @@ Journal Articles
 
 International Conferences
 =========================
-#. Syusaku Maeda, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Selin yavus Ilik, Naoki Takeishi, Shigeo Wada, "DEVELOPMENT ON A COMPUTATIONAL FRAMEWORK TO EXPRESS PATIENT-SPECIFIC INTRACRNICAL CEREBROSPINAL FLUID FLOW BASED ON PHASE-CONTRAST MAGNETIC RESONANCE IMAGES", Summer Biomechanics, Bioengineering, and Biotransport Conference, June, 2021. (accepted)
+#. Syusaku Maeda, Tomohiro Otani, Shigeki Yamada, Yoshiyuki Watanabe, Selin yavus Ilik, Naoki Takeishi, Shigeo Wada, "DEVELOPMENT ON A COMPUTATIONAL FRAMEWORK TO EXPRESS PATIENT-SPECIFIC INTRACRNICAL CEREBROSPINAL FLUID FLOW BASED ON PHASE-CONTRAST MAGNETIC RESONANCE IMAGES", Summer Biomechanics, Bioengineering, and Biotransport Conference, June, 2021.
 
 Domestic Conferences
 ====================
 #. 前田修作，北出宏紀，武石直樹，和田成生，"全脳間質液流動の全容解明に向けた計算力学モデルの構築と解析"，日本機械学会関西学生会2019年度学生卒業研究発表講演会，3月，2020．
-#. 前田修作，Selin Yavuz Ilik ，大谷智仁，武石直樹，和田成生，"ヒト脳室系における脳脊髄液流れの駆動メカニズム：数値流体力学シミュレーションによる検討 "，日本機械学会 第31回バイオフロンティア講演会，12月，2020.
-#. 前田 修作、大谷 智仁、Yavuz Ilik Selin、山田 茂樹、渡邊 嘉之、武石 直樹、和田 成生，"位相コントラストMRI計測に基づく正常圧水頭症における頭蓋内脳脊髄液動態の解析"，日本機械学会 関西支部第96期定時総会講演会，メカボケーション学生研究発表セッション，3月，2021.
+#. 前田修作，Selin Yavuz Ilik ，大谷智仁，武石直樹，和田成生，"ヒト脳室系における脳脊髄液流れの駆動メカニズム：数値流体力学シミュレーションによる検討 "、日本機械学会 第31回バイオフロンティア講演会、12月、2020.
+#. 前田 修作、大谷 智仁、Yavuz Ilik Selin、山田 茂樹、渡邊 嘉之、武石 直樹、和田 成生、"位相コントラストMRI計測に基づく正常圧水頭症における頭蓋内脳脊髄液動態の解析"、日本機械学会 関西支部第96期定時総会講演会、メカボケーション学生研究発表セッション，3月，2021.
+#. 前田 修作、大谷 智仁、Selin Yavuz Ilik、山田 茂樹、渡邊 嘉之、武石 直樹、和田 成生、"MRI計測に基づく正常圧水頭症患者の脳脊髄液流れの数値シミュレーション"、日本機械学会　第33回バイオエンジニアリング講演会、6月、2021.
